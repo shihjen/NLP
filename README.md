@@ -26,7 +26,7 @@
     <td>Bank Review Sentiment Analysis Using NLTK</td>
     <td>Sentiment Analysis</td>
     <td>
-    ![https://img.shields.io/badge/nltk-#306998](https://www.nltk.org/)
+    <a href="https://www.nltk.org/"><img src="https://img.shields.io/badge/nltk-306998" alt="NLTK Badge"></a>
     </td>
   </tr>
   <tr>
