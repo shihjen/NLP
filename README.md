@@ -27,6 +27,8 @@
     <a href="https://github.com/shihjen/NLP/blob/main/notebook/TextClassification_FakeNewsDetection.ipynb">Detecting Fake News with Text Classification using spaCy</a>
     </td>
     <td>Text Classification</td>
-    <td>spaCy</td>
+    <td>
+    <a href="https://spacy.io/"><img src="https://img.shields.io/badge/spaCy-09a3d5.svg" alt="NLTK Badge"></a>
+    </td>
   </tr>
 </table>
