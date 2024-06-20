@@ -36,7 +36,7 @@
     
   <tr>
     <td>
-    <a href=" ">Topic Modeling Analysis of Tripadvisor Hotel Reviews with Latent Dirichlet Allocation (LDA)</a>
+    <a href="https://github.com/shihjen/NLP/blob/main/notebook/LDATopicModelling_HotelReviews.ipynb">Topic Modeling Analysis of Tripadvisor Hotel Reviews with Latent Dirichlet Allocation (LDA)</a>
     </td>
     <td>Topic Modelling</td>
     <td>
@@ -47,12 +47,12 @@
 
   <tr>
     <td>
-    <a href=" ">Amazon Alexa Review Sentiment Analysis by Pre-trained Distilled BERT Model</a>
+    <a href="https://github.com/shihjen/NLP/blob/main/notebook/SentimentAnalysis_AmazonAlexaReview.ipynb">Amazon Alexa Review Sentiment Analysis by Pre-trained Distilled BERT Model</a>
     </td>
     <td>Sentiment Analysis, Text Classification</td>
     <td>
     <a href="https://www.nltk.org/"><img src="https://img.shields.io/badge/nltk-306998" alt="NLTK Badge"></a>
-    <a href="https://huggingface.co/"><img src="https://img.shields.io/badge/HuggingFace-FFD21E " alt="Hugging Face Badge"></a>
+    <a href="https://huggingface.co/"><img src="https://img.shields.io/badge/HuggingFace-ffd21e " alt="Hugging Face Badge"></a>
     </td>
   </tr>    
 </table>
