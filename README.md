@@ -52,7 +52,7 @@
     <td>Sentiment Analysis, Text Classification</td>
     <td>
     <a href="https://www.nltk.org/"><img src="https://img.shields.io/badge/nltk-306998" alt="NLTK Badge"></a>
-    <a href="https://huggingface.co/"><img src="https://img.shields.io/badge/HuggingFace-ffd21e " alt="Hugging Face Badge"></a>
+    <a href="https://huggingface.co/"><img src="https://img.shields.io/badge/HuggingFace-FFEA00 " alt="Hugging Face Badge"></a>
     </td>
   </tr>    
 </table>
