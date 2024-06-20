@@ -41,7 +41,7 @@
     <td>Topic Modelling</td>
     <td>
     <a href="https://www.nltk.org/"><img src="https://img.shields.io/badge/nltk-306998" alt="NLTK Badge"></a>
-    <a href="https://scikit-learn.org/stable/"><img src="https://img.shields.io/badge/sklearnn-#F7931E " alt="sklearn Badge"></a>
+    <a href="https://scikit-learn.org/stable/"><img src="https://img.shields.io/badge/sklearnn-F7931E " alt="sklearn Badge"></a>
     </td>
   </tr>
 
@@ -52,7 +52,7 @@
     <td>Sentiment Analysis, Text Classification</td>
     <td>
     <a href="https://www.nltk.org/"><img src="https://img.shields.io/badge/nltk-306998" alt="NLTK Badge"></a>
-    <a href="https://huggingface.co/"><img src="https://img.shields.io/badge/HuggingFace-#FFD21E " alt="Hugging Face Badge"></a>
+    <a href="https://huggingface.co/"><img src="https://img.shields.io/badge/HuggingFace-FFD21E " alt="Hugging Face Badge"></a>
     </td>
   </tr>    
 </table>
