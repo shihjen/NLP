@@ -9,7 +9,7 @@
 
 <table>
   <tr>
-    <th>Project</th>
+    <th>Notebook</th>
     <th>NLP Task</th>
     <th>NLP Libraries</th>
   </tr>
