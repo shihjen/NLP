@@ -41,7 +41,7 @@
     <td>Topic Modelling</td>
     <td>
     <a href="https://www.nltk.org/"><img src="https://img.shields.io/badge/nltk-306998" alt="NLTK Badge"></a>
-    <a href="https://scikit-learn.org/stable/"><img src="https://img.shields.io/badge/sklearnn-F7931E " alt="sklearn Badge"></a>
+    <a href="https://scikit-learn.org/stable/"><img src="https://img.shields.io/badge/sklearn-orange " alt="sklearn Badge"></a>
     </td>
   </tr>
 
@@ -52,9 +52,20 @@
     <td>Sentiment Analysis, Text Classification</td>
     <td>
     <a href="https://www.nltk.org/"><img src="https://img.shields.io/badge/nltk-306998" alt="NLTK Badge"></a>
-    <a href="https://huggingface.co/"><img src="https://img.shields.io/badge/HuggingFace-FFEA00 " alt="Hugging Face Badge"></a>
+    <a href="https://huggingface.co/"><img src="https://img.shields.io/badge/HuggingFace-yellow " alt="Hugging Face Badge"></a>
     </td>
-  </tr>    
+  </tr>
+
+  <tr>
+    <td>
+    <a href="https://github.com/shihjen/NLP/blob/main/notebook/SpamSMSDetection.ipynb">Spam SMS Detection Using TF-IDF Feature Extraction</a>
+    </td>
+    <td>Text Classification</td>
+    <td>
+    <a href="https://www.nltk.org/"><img src="https://img.shields.io/badge/nltk-orange" alt="NLTK Badge"></a>
+    <a href="https://huggingface.co/"><img src="https://img.shields.io/badge/sklearn-FFEA00 " alt="sklearn Badge"></a>
+    </td>
+  </tr>        
 </table>
 
 
