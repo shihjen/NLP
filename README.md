@@ -11,7 +11,7 @@
   <tr>
     <th>Notebook</th>
     <th>NLP Task</th>
-    <th>NLP Libraries</th>
+    <th>Dependencies</th>
   </tr>
     
   <tr>
@@ -62,8 +62,8 @@
     </td>
     <td>Text Classification</td>
     <td>
-    <a href="https://www.nltk.org/"><img src="https://img.shields.io/badge/nltk-orange" alt="NLTK Badge"></a>
-    <a href="https://huggingface.co/"><img src="https://img.shields.io/badge/sklearn-FFEA00 " alt="sklearn Badge"></a>
+    <a href="https://www.nltk.org/"><img src="https://img.shields.io/badge/nltk-306998" alt="NLTK Badge"></a>
+    <a href="https://huggingface.co/"><img src="https://img.shields.io/badge/sklearn-orange " alt="sklearn Badge"></a>
     </td>
   </tr>        
 </table>
