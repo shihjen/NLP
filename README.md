@@ -78,6 +78,16 @@
     <a href="https://huggingface.co/"><img src="https://img.shields.io/badge/sklearn-orange " alt="sklearn Badge"></a>
     </td>
   </tr> 
+
+  <tr>
+    <td>
+    <a href="https://github.com/shihjen/NLP/blob/main/notebook/KeywordExtraction_DiseaseSymptomsDescription.ipynb">Keyword Extraction from Symptom to Disease Dataset using YAKE</a>
+    </td>
+    <td>Keyword Extraction</td>
+    <td>
+    <a href="https://www.nltk.org/"><img src="https://img.shields.io/badge/yake-black" alt="yake Badge"></a>
+    </td>
+  </tr>
 </table>
 
 
