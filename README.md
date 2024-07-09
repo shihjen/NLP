@@ -45,6 +45,17 @@
     </td>
   </tr>
 
+  
+  <tr>
+    <td>
+    <a href="https://github.com/shihjen/NLP/blob/main/notebook/SentimentAnalysis_NetflixReview.ipynb">Netflix Sentiment Analysis with Hugging Face Transformers</a>
+    </td>
+    <td>Sentiment Analysis</td>
+    <td>
+    <a href="https://huggingface.co/"><img src="https://img.shields.io/badge/DistilBERT-purple " alt="DistilBERT Badge"></a>
+    </td>
+  </tr>
+
   <tr>
     <td>
     <a href="https://github.com/shihjen/NLP/blob/main/notebook/SentimentAnalysis_AmazonAlexaReview.ipynb">Amazon Alexa Review Sentiment Analysis by Pre-trained Distilled BERT Model</a>
@@ -52,7 +63,7 @@
     <td>Sentiment Analysis, Text Classification</td>
     <td>
     <a href="https://www.nltk.org/"><img src="https://img.shields.io/badge/nltk-306998" alt="NLTK Badge"></a>
-    <a href="https://huggingface.co/"><img src="https://img.shields.io/badge/transformer-yellow " alt="Transformer Badge"></a>
+    <a href="https://huggingface.co/"><img src="https://img.shields.io/badge/DistilBERT-purple " alt="DistilBERT Badge"></a>
     </td>
   </tr>
 
